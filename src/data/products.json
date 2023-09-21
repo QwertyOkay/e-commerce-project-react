@@ -1,0 +1,433 @@
+[
+  {
+    "id": 1,
+    "image": "/img/products/01.jpg",
+    "image2": "/img/products/02.jpg",
+    "title": "2112 SOLSTICE TEE",
+    "desc": "Rush’s 1976 album, 2112, the greatest concept album of all time. That’s just our humble opinion of course.",
+    "category": "",
+    "badge": "top",
+    "type": "best sellers",
+    "price": 35.49,
+    "colors": ["black"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "features": ["Printed on 100% cotton Gildan SoftStyle."],
+    "rating": "4"
+  },
+  {
+    "id": 2,
+    "image": "/img/products/03.jpg",
+    "image2": "/img/products/04.jpg",
+    "title": "ROLL THE BONES KICKMAN TEE",
+    "desc": "Not every tee has to be black, right? ",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 35.49,
+    "colors": ["blue"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "features": ["Printed on Carolina Blue, 100% cotton Gildan SoftStyle."],
+    "rating": "5"
+  },
+  {
+    "id": 3,
+    "image": "/img/products/05.jpg",
+    "image2": "/img/products/06.jpg",
+    "title": "ROLL THE BONES KICKMAN HOODY",
+    "desc": "Stylish Roll The Bones design on a heavyweight hoody.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 77.99,
+    "colors": ["grey"],
+    "sizes": ["M", "L", "XL", "XXL"],
+    "features": [
+      "Printed on Gunmetal Heather, 80/20 cotton/poly Independent Trading Style 4000. For exact sizing, please search style name and number."
+    ],
+    "rating": "4.5"
+  },
+  {
+    "id": 4,
+    "image": "/img/products/07.jpg",
+    "image2": "/img/products/08.jpg",
+    "title": "SIGNALS 40 RAGLAN",
+    "desc": "A celebratory raglan for the 40th Anniversary of the album, Signals.",
+    "category": "",
+    "badge": "",
+    "type": "best sellers",
+    "price": 35.0,
+    "colors": ["grey"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "features": [
+      "The 80’s brings back a lot of great memories for music, fashion, hairstyles.",
+      "Some of those we’re holding onto, some not.",
+      "90% ringspun cotton, 10% polyester.",
+      " For exact sizing, search Tultex style #245"
+    ],
+    "rating": "4.5"
+  },
+  {
+    "id": 5,
+    "image": "/img/products/09.jpg",
+    "image2": "/img/products/10.jpg",
+    "title": "RUSH 1974 BOMBER JACKET",
+    "desc": "A lightweight Rush Bomber for spring.",
+    "category": "",
+    "badge": "",
+    "type": "best sellers",
+    "price": 74.99,
+    "colors": ["black"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "features": [
+      "100% polyester, single layer, with interior water resistant coating.",
+      "Pockets on the side.",
+      "For exact sizing, please see attached size chart."
+    ],
+    "rating": "4"
+  },
+  {
+    "id": 6,
+    "image": "/img/products/11.jpg",
+    "image2": "",
+    "title": "COUNTERPARTS PATCH LONGSLEEVE",
+    "desc": "This is the original design from way back on the Counterparts Tour.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 35.99,
+    "colors": ["blue"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "features": [
+      " A 100% cotton longsleeve, with a woven patch with the nut & bolt, and RUSH embroidered above.",
+      "Printed on 100% cotton Next Level Apparel."
+    ],
+    "rating": "4.5"
+  },
+  {
+    "id": 7,
+    "image": "/img/products/13.jpg",
+    "image2": "",
+    "title": "R40 WASHED TRI-LOGO HOODY",
+    "desc": "This artwork is from the Neil Peart stage tees collection, from the R40 Tour.",
+    "category": "",
+    "badge": "new",
+    "type": "",
+    "price": 76.99,
+    "colors": ["white"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "features": [
+      "Printed on the front, and sleeve.",
+      "This is printed on a soft-washed, ring spun, 80/20 cotton/poly hoody from Comfort Colors.",
+      "This is garment-dyed, which means it has that lived-in, washed-out feel."
+    ],
+    "rating": "4"
+  },
+  {
+    "id": 8,
+    "image": "/img/products/15.jpg",
+    "image2": "/img/products/16.jpg",
+    "title": "RUSH LUXURY BATHROBE",
+    "desc": "Decadent Turkish cotton bathrobe for lounging around the house.",
+    "category": "",
+    "badge": "top",
+    "type": "best sellers",
+    "price": 150.0,
+    "colors": ["black"],
+    "sizes": ["S/M", "L/XL"],
+    "features": [
+      "Embroidered skull logo on the front chest, and embroidered RUSH 1974 on the hood.",
+      "Two side pockets, belt with loops, and custom Rush labels inside also.",
+      "This robe comes in two sizes, and we recommend the larger size for anyone over 5’9” in height.",
+      "100% Turkish Cotton Terry."
+    ],
+    "rating": "4.5"
+  },
+  {
+    "id": 9,
+    "image": "/img/products/17.jpg",
+    "image2": "/img/products/18.jpg",
+    "title": "AFTK 40TH KINGS HOODY",
+    "desc": "The Kings Hoody is one of the all time, longest-standing designs Rush has had in the product line.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 76.0,
+    "colors": ["black"],
+    "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+    "features": [
+      "A classic design from A Farewell To Kings, with this issue being a 40th Anniversary version.",
+      "Printed on the front and back, and an embroidered Starman on the front near the pocket.",
+      "Fabric is cotton/poly blend."
+    ],
+    "rating": "5"
+  },
+  {
+    "id": 10,
+    "image": "/img/products/19.jpg",
+    "image2": "",
+    "title": "NAVY STENCIL STARMAN TEE",
+    "desc": "The Starman is looking good on this navy blue tee. ",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 31.99,
+    "colors": ["blue"],
+    "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+    "features": [
+      "This tee is printed on 100% cotton Gildan SoftStyle or similar."
+    ],
+    "rating": "5"
+  },
+  {
+    "id": 11,
+    "image": "/img/products/21.jpg",
+    "image2": "",
+    "title": "WOMEN'S ORIGINAL T-SHIRT",
+    "desc": "The classic Rush logo from the first album.",
+    "category": "",
+    "badge": "",
+    "type": "best sellers",
+    "price": 30.0,
+    "colors": ["grey"],
+    "sizes": ["M", "L", "XL", "XXL", "XXXL"],
+    "features": [
+      "Printed on 100% cotton Next Level Apparel 1510 with slightly scoopy neck."
+    ],
+    "rating": "4.5"
+  },
+  {
+    "id": 12,
+    "image": "/img/products/23.jpg",
+    "image2": "",
+    "title": "YOUTH SIGNALS TEE",
+    "desc": "When you are a kid, you can get away with a Signals design on blue.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 25.0,
+    "colors": ["blue"],
+    "sizes": ["S", "M", "L", "XL"],
+    "features": ["Printed on 100% cotton."],
+    "rating": "5"
+  },
+  {
+    "id": 13,
+    "image": "/img/products/25.jpg",
+    "image2": "",
+    "title": "YOUTH ORIGINAL TEE",
+    "desc": "Kids these days…they just love Rush!",
+    "category": "",
+    "badge": "",
+    "type": "best sellers",
+    "price": 30.0,
+    "colors": ["black"],
+    "sizes": ["XS", "S", "M", "L"],
+    "features": ["Printed on Next Level 100% ring-spun cotton."],
+    "rating": "5"
+  },
+  {
+    "id": 14,
+    "image": "/img/products/26.jpg",
+    "image2": "/img/products/27.jpg",
+    "title": "STARMAN MESHBACK BASEBALL HAT",
+    "desc": "A classic Rush Starman hat.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 30.99,
+    "colors": ["blue"],
+    "sizes": ["One size"],
+    "features": [
+      "Customized inside and out, this hat features the embroidered Starman on the front.",
+      "Adjustable snapback."
+    ],
+    "rating": "4.5"
+  },
+  {
+    "id": 15,
+    "image": "/img/products/28.jpg",
+    "image2": "/img/products/29.jpg",
+    "title": "SIGNALS BUCKET HAT",
+    "desc": "At anytime of the year, summer is just around the corner.",
+    "category": "",
+    "badge": "",
+    "type": "best sellers",
+    "price": 30.99,
+    "colors": ["white"],
+    "sizes": ["One size"],
+    "features": [
+      "At least that’s how we view it in Canada.",
+      "Customized inside and out, this bucket hat is adorned with embroidered Signals art, featuring the beloved dalmatian.",
+      "100% cotton.",
+      "One size fits all."
+    ],
+    "rating": "5"
+  },
+  {
+    "id": 16,
+    "image": "/img/products/30.jpg",
+    "image2": "/img/products/31.jpg",
+    "title": "RUSH COUNTERPARTS DAD HAT",
+    "desc": "There are a whole lot of Dads who love Rush.",
+    "category": "",
+    "badge": "new",
+    "type": "best sellers",
+    "price": 30.99,
+    "colors": ["blue"],
+    "sizes": ["One size"],
+    "features": [
+      "Moms can wear this too of course.​",
+      "100% cotton, with adjustable closure on back.",
+      "The Counterparts logo is an embroidered patch, sewn on the hat, and an embroidered RUSH on the back.",
+      "The inside of the hat also features custom Rush label and taping."
+    ],
+    "rating": "4"
+  },
+  {
+    "id": 17,
+    "image": "/img/products/32.jpg",
+    "image2": "",
+    "title": "RUSH FRAMED GOLD ALBUM ROLL THE BONES",
+    "desc": "This framed collectible celebrates the 1991 release, Roll The Bones.",
+    "category": "",
+    "badge": "",
+    "type": "best sellers",
+    "price": 180.0,
+    "colors": "",
+    "sizes": "",
+    "features": [
+      "Finished size is 18” X 22”.",
+      "This product will ship directly from the supplier, Frameworth, in Canada."
+    ],
+    "rating": "5"
+  },
+  {
+    "id": 18,
+    "image": "/img/products/34.jpg",
+    "image2": "",
+    "title": "RUSH FRAMED PLATINUM ALBUM SIGNALS",
+    "desc": "This framed collectible celebrates the 1982 release, Signals.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 180.0,
+    "colors": "",
+    "sizes": "",
+    "features": [
+      "Finished size is 18” X 22”.",
+      "This product will ship directly from the supplier, Frameworth, in Canada."
+    ],
+    "rating": "5"
+  },
+  {
+    "id": 19,
+    "image": "/img/products/36.jpg",
+    "image2": "",
+    "title": "RUSH FRAMED B/W PHOTO COLLAGE WITH PLATINUM LP",
+    "desc": "This framed collectible features a photo collage, along with a platinum color LP and engraved metal plate. The plate reads, “GEDDY LEE – ALEX LIFESON – NEIL PEART 40TH ANNIVERSARY 1974-2014”.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 201.0,
+    "colors": "",
+    "sizes": "",
+    "features": [
+      "Finished size is 22” X 34”.",
+      "This product will ship directly from the supplier, Frameworth, in Canada.",
+      "This item is printed and framed on demand."
+    ],
+    "rating": "5"
+  },
+  {
+    "id": 20,
+    "image": "/img/products/38.jpg",
+    "image2": "",
+    "title": "RUSH GOLDEN ALE MUSTARD",
+    "desc": "We have teamed up with our friends at Kozlik’s Mustard and Henderson Brewery, to produce a Rush Mustard! Kozlik’s are the Geniuses of Mustard, and they have added the Canadian Golden Ale into the mustard for a distinct flavor. Alex describes the adventure here.",
+    "category": "",
+    "badge": "top",
+    "type": "best sellers",
+    "price": 10.99,
+    "colors": "",
+    "sizes": ["240 ml"],
+    "features": [
+      "Kozlik’s mustards are made with 100% Canadian mustard seed, non-GMO, gluten-free and contain no additives or preservatives.",
+      "Ingredients: Distilled Vinegar, Mustard Powder, Sugars(sugar, honey), Water, Rush Canadian Golden Ale (5.5% Alcohol by Volume), Salt,Natural Flavour.",
+      "Contains: Wheat, Mustard"
+    ],
+    "rating": "4"
+  },
+  {
+    "id": 21,
+    "image": "/img/products/40.jpg",
+    "image2": "/img/products/41.jpg",
+    "title": "RUSH XANABREW COASTER PACK",
+    "desc": "Xanabrew is the Spring 2023 Limited Edition beer from Rush.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 10.99,
+    "colors": ["black"],
+    "sizes": ["240 ml"],
+    "features": [
+      "You can head over to Half Time to get your beer to go along with these coasters.​",
+      "These come in a pack of 10. The size of each coaster is 4” in diameter."
+    ],
+    "rating": "5"
+  },
+  {
+    "id": 22,
+    "image": "/img/products/42.jpg",
+    "image2": "",
+    "title": "RUSH GOLDEN ALE KOOZIE",
+    "desc": "Rush Golden Ale is best drunk cold. These tall-boy koozies will do their best to keep your beer chilly.",
+    "category": "",
+    "badge": "",
+    "type": "best sellers",
+    "price": 7.99,
+    "colors": "",
+    "sizes": "",
+    "features": [
+      "And yes we know how to spell “genuises”, but that wouldn’t be genius.",
+      "Printed on the front with the Golden Ale logo, and on the back with the genuis syaings."
+    ],
+    "rating": "4.5"
+  },
+  {
+    "id": 23,
+    "image": "/img/products/44.jpg",
+    "image2": "/img/products/45.jpg",
+    "title": "RUSH BOBBLEHEAD DOLLS",
+    "desc": "The beloved Rush Bobbles! At first when presenting this product concept to the band in 2002, Neil was not sure.",
+    "category": "",
+    "badge": "new",
+    "type": "best sellers",
+    "price": 60.49,
+    "colors": "",
+    "sizes": ["18cm high"],
+    "features": [
+      "These dolls are polyresin ceramic, which is the highest quality bobblehead on the market.",
+      "Each set consists of three dolls (Geddy, Alex, and Neil) in a custom printed RUSH box.",
+      "These were designed with a 'vintage' Rush in mind, from the time when the band wore kimonos, played double neck guitars, and Neil had the most amazing moustache in rock music."
+    ],
+    "rating": "5"
+  },
+  {
+    "id": 24,
+    "image": "/img/products/46.jpg",
+    "image2": "/img/products/47.jpg",
+    "title": "RUSH BLANKET",
+    "desc": "Whether you want to hit the beach, have a picnic, cozy up on the sofa, or decorate a wall, this woven Rush blanket is a really fun piece.",
+    "category": "",
+    "badge": "",
+    "type": "",
+    "price": 76.0,
+    "colors": "",
+    "sizes": ["127 x 152 cm"],
+    "features": [
+      "Made in the USA",
+      "There are 20 different Rush logos woven right into the cotton fabric."
+    ],
+    "rating": "4"
+  }
+]
